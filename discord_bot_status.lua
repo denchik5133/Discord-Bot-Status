@@ -37,9 +37,9 @@ local config = {
 	server_id = 1, -- Each next server should have its own server_id (in order 1, 2, 3, etc.)
 	embed_color = Color(255, 165, 0), -- Orange color used for embed messages
 	log_level = 1, -- 0 = nothing, 1 = errors, 2 = all requests
-	token = 'MTA4Njk5MTI0OTc3NDQ5Mzc2OA.GlN_3u.CLlfY3BfPyDRjpCsCB7awInAfIZUwqrPtguh4s', -- YOUR_BOT_TOKEN
-	guild = '1086963955643207740', -- YOUR_GUILD_ID
-	channel = '1086994373029396562', -- YOUR_CHANNEL_ID
+	token = 'YOUR_BOT_TOKEN', -- bot token
+	guild = 'YOUR_GUILD_ID', -- guild id
+	channel = 'YOUR_CHANNEL_ID', -- channel id
 	version = 10, -- API version
 	servername = 'Server Information: ', -- Server name here
 	endpoints = {
